@@ -1,0 +1,1 @@
+// Dashboard page with QR and status

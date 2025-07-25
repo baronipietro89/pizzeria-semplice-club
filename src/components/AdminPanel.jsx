@@ -1,0 +1,1 @@
+// Admin panel component for user tracking
